@@ -1,0 +1,12 @@
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\bin\Debug\netcoreapp3.1\less7.exe
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\bin\Debug\netcoreapp3.1\less7.deps.json
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\bin\Debug\netcoreapp3.1\less7.runtimeconfig.json
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\bin\Debug\netcoreapp3.1\less7.runtimeconfig.dev.json
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\bin\Debug\netcoreapp3.1\less7.dll
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\bin\Debug\netcoreapp3.1\less7.pdb
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\obj\Debug\netcoreapp3.1\less7.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\obj\Debug\netcoreapp3.1\less7.AssemblyInfo.cs
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\obj\Debug\netcoreapp3.1\less7.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\obj\Debug\netcoreapp3.1\less7.dll
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\obj\Debug\netcoreapp3.1\less7.pdb
+C:\Users\Intel\Desktop\LabMoscow\Lesson7\less7_3\less7\less7\obj\Debug\netcoreapp3.1\less7.genruntimeconfig.cache
